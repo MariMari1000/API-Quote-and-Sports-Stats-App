@@ -133,7 +133,6 @@ cd SportsQuoteStats
 <li>Create a new Pull Request.</li>
     </ol>
 
-<h2>License</h2>
 
 
 
