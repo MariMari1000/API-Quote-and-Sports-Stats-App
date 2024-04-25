@@ -1,0 +1,44 @@
+Folder PATH listing for volume OS
+Volume serial number is 94B5-1205
+C:.
+|   index.html
+|   manifest.json
+|   output.doc
+|   service-worker.js
+|   
++---app
+|       app.component.ts
+|       app.html
+|       app.module.ts
+|       app.scss
+|       main.ts
+|       
++---assets
+|   +---icon
+|   |       favicon.ico
+|   |       
+|   \---imgs
+|           logo.png
+|           
++---pages
+|   +---home
+|   |       home.html
+|   |       home.scss
+|   |       home.ts
+|   |       
+|   \---settings
+|           settings.html
+|           settings.module.ts
+|           settings.scss
+|           settings.ts
+|           
++---providers
+|   +---quotes
+|   |       quotes.ts
+|   |       
+|   \---stats
+|           stats.ts
+|           
+\---theme
+        variables.scss
+        
