@@ -121,16 +121,16 @@ cd SportsQuoteStats
         </li>
     </ol>
 
-    <h2>Contributing</h2>
+<h2>Contributing</h2>
 
-    <p>Contributions to SportsQuoteStats are welcome! If you'd like to contribute to the project, please follow these guidelines:</p>
+<p>Contributions to SportsQuoteStats are welcome! If you'd like to contribute to the project, please follow these guidelines:</p>
 
-    <ol>
-    <li>Fork the repository.</li>
-    <li>Create a new branch (<code>git checkout -b feature/your-feature</code>).</li>
-    <li>Commit your changes (<code>git commit -am 'Add new feature'</code>).</li>
-    <li>Push your changes to the branch (<code>git push origin feature/your-feature</code>).</li>
-    <li>Create a new Pull Request.</li>
+<ol>
+<li>Fork the repository.</li>
+<li>Create a new branch (<code>git checkout -b feature/your-feature</code>).</li>
+<li>Commit your changes (<code>git commit -am 'Add new feature'</code>).</li>
+<li>Push your changes to the branch (<code>git push origin feature/your-feature</code>).</li>
+<li>Create a new Pull Request.</li>
     </ol>
 
 <h2>License</h2>
